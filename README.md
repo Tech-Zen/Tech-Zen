@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tech-Zen
 - 👀 Cybersecurity topics
-- 🌱 Cybersecurity - PenTest+, Linux+, CISSP, CEH/eJPT
-- 💞️ Cybersecurity Projects
+- 🌱 Certs Im lookig at obtaining - PenTest+, Linux+, CISSP, CEH/eJPT
+- 💞️ Cybersecurity/ Mobile App/ ML Projects
 - 📫 beasleyi@mail.gvsu.edu
 
 <!---
